@@ -1,29 +1,24 @@
-         h3
+        body
+        {
+            font-family: arial;
+            color: darkslategray;
+        }
+        h3
         {
     font-size: 32px;
-    font-family: Arial;
         }  
          a
         {
    color: blue;
-   font-family: Arial;
+   
         }
          h2 
-
         {
      font-size: 28px;
-     font-family: Arial;
+     
         }
         img
         {
      width: 150px;
     height: 150px;
-        }
-         p
-        {
-font-family: arial;
-        }
-        span
-        {
-         font-family: arial;
         }
