@@ -2,7 +2,6 @@
         {
             font-family: arial;
             color: darkslategray;
-            background-color: white;
         }
         h3
         {
@@ -23,13 +22,3 @@
      width: 150px;
     height: 150px;
         }
-        section
-        {
-       padding: 10px 60px 20px 60px;
-        }
-        heder
-        {
-        background-color: aliceblue;
-        padding: 8px;
-        }
-        
